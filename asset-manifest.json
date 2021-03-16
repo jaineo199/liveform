@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/liveform/static/js/main.8abed8ca.chunk.js",
+    "main.js.map": "/liveform/static/js/main.8abed8ca.chunk.js.map",
+    "runtime-main.js": "/liveform/static/js/runtime-main.cd5e0cc7.js",
+    "runtime-main.js.map": "/liveform/static/js/runtime-main.cd5e0cc7.js.map",
+    "static/js/2.8c34583b.chunk.js": "/liveform/static/js/2.8c34583b.chunk.js",
+    "static/js/2.8c34583b.chunk.js.map": "/liveform/static/js/2.8c34583b.chunk.js.map",
+    "index.html": "/liveform/index.html",
+    "static/js/2.8c34583b.chunk.js.LICENSE.txt": "/liveform/static/js/2.8c34583b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd5e0cc7.js",
+    "static/js/2.8c34583b.chunk.js",
+    "static/js/main.8abed8ca.chunk.js"
+  ]
+}
